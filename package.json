@@ -1,0 +1,32 @@
+{
+  "name": "rawgiter",
+  "version": "1.0.3",
+  "description": "静态文件本地资源路径转rawgit",
+  "main": "index.js",
+  "bin": {
+    "rawgiter": "bin/index.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiwent/rawgiter.git"
+  },
+  "keywords": [
+    "rawgit"
+  ],
+  "author": "chiwent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiwent/rawgiter/issues"
+  },
+  "homepage": "https://github.com/chiwent/rawgiter#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
