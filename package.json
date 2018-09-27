@@ -1,6 +1,6 @@
 {
   "name": "rawgiter",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "静态文件本地资源路径转rawgit",
   "main": "index.js",
   "bin": {
